@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="center"> Hi 👋, I'm Ramanathan </h1>
+<h3 align="center">React.js Developer | Passionate about Web Development</h3>
 
-<!--
-**Ramanathan-m/Ramanathan-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working with **React.js**
+- 🌱 I’m currently learning **Next.js and Tailwind CSS**
+- 💬 Ask me about **React, JavaScript, and Frontend Development**
+- 📫 How to reach me: **your-email@example.com**
+- ⚡ Fun fact: **I love solving coding challenges!**
 
-Here are some ideas to get you started:
+### 🚀 Skills:
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📲 Connect with me:
+<p align="left">
+  <a href="https://www.linkedin.com/in/yourprofile/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://twitter.com/yourprofile">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter" />
+  </a>
+</p>
